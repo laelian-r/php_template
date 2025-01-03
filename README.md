@@ -37,6 +37,6 @@ _exemples :_
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14
+* **Jhon doe** _alias_ [@laelian-r](https://github.com/laelian-r
 
 _(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
