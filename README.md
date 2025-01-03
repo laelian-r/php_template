@@ -1,5 +1,5 @@
 # Titre du projet
-Une petite description du projet
+Description du projet
 
 ## Pour commencer
 
